@@ -1,0 +1,8 @@
+com\hb\blog\Bootstrap.class
+com\hb\blog\entities\PostDetails.class
+com\hb\blog\entities\Tag.class
+com\hb\blog\repositories\PostCommentRepository.class
+com\hb\blog\entities\PostComment.class
+com\hb\blog\repositories\PostRepository.class
+com\hb\blog\repositories\TagRepository.class
+com\hb\blog\entities\Post.class
